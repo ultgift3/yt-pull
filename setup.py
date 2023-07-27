@@ -17,7 +17,7 @@ setup(
     description=__description__,
     author=__author__,
     url="https://github.com/ultgift3/yt-pull",
-    download_url="https://github.com/ultgift3/yt-pull/archive/refs/tags/YouTube.tar.gz",
+    download_url="https://github.com/ultgift3/yt-pull/archive/refs/tags/ytpull.tar.gz",
     install_requires=install_requires,
     entry_points={
         'console_scripts': [
