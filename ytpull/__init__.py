@@ -3,7 +3,7 @@
 # Author: Gwansuk Oh
 # Description:
 # Short and ill written script for extracting a transcript of a YouTube Video.
-# Too many unncessary dependencies, but does the job.
+# Too many unnecessary  dependencies, but does the job.
 #
 # Usage:
 # $> yt-pull "https://www.youtube.com/watch?v=some-ytvideo-id"

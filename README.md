@@ -1,6 +1,6 @@
 # Description
 
-Short and ill written script for extracting a transcript of a YouTube Video. Too many unncessary dependencies, but does the job.
+Short and ill written script for extracting a transcript of a YouTube Video. Too many unnecessary  dependencies, but does the job.
 
 Thank you [youtube-transcript-api](https://pypi.org/project/youtube-transcript-api/) and [clipboard](https://pypi.org/project/clipboard/) for saving my day!
 

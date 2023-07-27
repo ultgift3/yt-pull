@@ -2,7 +2,7 @@
 __version__ = "0.0.1"
 __description__ = (
     "Short and ill written script for extracting a transcript of a YouTube Video. "
-    "Too many unncessary dependencies, but does the job."
+    "Too many unnecessary  dependencies, but does the job."
     )
 __author__ = "Gwansuk Oh"
 
@@ -17,6 +17,7 @@ setup(
     description=__description__,
     author=__author__,
     url="https://github.com/ultgift3/yt-pull",
+    download_url="https://github.com/ultgift3/yt-pull/archive/refs/tags/YouTube.tar.gz",
     install_requires=install_requires,
     entry_points={
         'console_scripts': [
