@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: yt-pull
+Version: 0.0.1
+Summary: Short and ill written script for extracting a transcript of a YouTube Video. Too many unnecessary  dependencies, but does the job.
+Home-page: https://github.com/ultgift3/yt-pull
+Download-URL: https://github.com/ultgift3/yt-pull/archive/refs/tags/ytpull.tar.gz
+Author: Gwansuk Oh

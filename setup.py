@@ -7,6 +7,10 @@ __description__ = (
 __author__ = "Gwansuk Oh"
 
 from distutils.core import setup
+from pathlib import Path
+
+long_description = (Path(__file__).parent / "README.md").read_text()
+
 
 with open('requirements.txt', 'r') as f:
     install_requires = f.read().splitlines()
@@ -15,6 +19,8 @@ setup(
     name="yt-pull",
     version=__version__,
     description=__description__,
+    long_description=long_description,
+    long_description=long_description,
     author=__author__,
     url="https://github.com/ultgift3/yt-pull",
     download_url="https://github.com/ultgift3/yt-pull/archive/refs/tags/ytpull.tar.gz",
