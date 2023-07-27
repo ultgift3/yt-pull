@@ -16,6 +16,7 @@ setup(
     version=__version__,
     description=__description__,
     author=__author__,
+    url="https://github.com/ultgift3/yt-pull",
     install_requires=install_requires,
     entry_points={
         'console_scripts': [
