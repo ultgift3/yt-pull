@@ -1,5 +1,5 @@
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __description__ = (
     "Short and ill written script for extracting a transcript of a YouTube Video. "
     "Too many unnecessary  dependencies, but does the job."
