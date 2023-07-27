@@ -20,7 +20,7 @@ setup(
     version=__version__,
     description=__description__,
     long_description=long_description,
-    long_description=long_description,
+    long_description_content_type='text/markdown',
     author=__author__,
     url="https://github.com/ultgift3/yt-pull",
     download_url="https://github.com/ultgift3/yt-pull/archive/refs/tags/ytpull.tar.gz",
