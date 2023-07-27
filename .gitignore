@@ -1,5 +1,5 @@
 
+.notes/
 *.pyc
 __pycache__/
 dist/
-.notes/
